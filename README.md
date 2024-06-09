@@ -2,10 +2,8 @@
 
 
 ## Education
-Master of Science, Bioinformatics
-@ Northeastern University
-Bachelor of Engineering, Biotechnology
-@ Dayananda Sagar College of Engineering
+Master of Science, Bioinformatics | Northeastern University _May 2024_
+Bachelor of Engineering, Biotechnology | Dayananda Sagar College of Engineering _Aug 2021_
 
 
 ## Work Experience
