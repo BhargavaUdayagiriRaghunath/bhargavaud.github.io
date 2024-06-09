@@ -1,13 +1,14 @@
 # Bioinformatician
 
-### Education
+
+## Education
 Master of Science, Bioinformatics
 @ Northeastern University
 Bachelor of Engineering, Biotechnology
 @ Dayananda Sagar College of Engineering
 
 
-### Work Experience
+## Work Experience
 Human Genetics and Genomics Co-op @ Editas Medicine
 - I accelerate the identification of potential therapeutic targets by developing and deploying bioinformatics tools that automate the ingestion, extraction, and analysis of omics data from curated databases like ENCODE.
 - In my work with gene editing therapeutic programs, I support the formulation and execution of innovative research strategies in target discovery under the human genetics team.
@@ -21,7 +22,7 @@ Research Student Intern @ RV College of Engineering
 - I developed an automated way of identifiying protein domain clusters using Python aiding in faster analysis, for on-going projects.
 - This project directly contributed to post-doctoral research by helping provide highly accurate way of identifying protein domain identification, contributing to significant operational efficiency.
 
-### Academic Projects and Awards
+## Academic Projects and Awards
 In-Silico Studies of HFE and HJV Genes involved in Hereditary Hemochromatosis
 - Analyzed major mutations in the genes HJV and HFE contributing to Hereditary Hemochromatosis and identified the most disease-contributing variants
 - Utilized computational tools and GROMACS software suite, performing molecular dynamics simulations for structural analysis of gene products
