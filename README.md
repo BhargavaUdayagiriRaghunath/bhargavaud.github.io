@@ -1,5 +1,6 @@
 # Bioinformatician
 
+### Technical Skills: Python, R, Linux, Genomics, Machine Learning, Applied Statistics
 
 ## Education
 - MS, Bioinformatics | Northeastern University (_May 2024_)
